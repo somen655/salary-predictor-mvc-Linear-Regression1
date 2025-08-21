@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salary Predictor</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to right, #007bff, #00d4ff);
+        }
+        .card {
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+        }
+        .card-header {
+            background-color: #007bff;
+            color: white;
+            font-size: 1.25rem;
+            font-weight: bold;
+            text-align: center;
+            padding: 1rem;
+        }
+        .btn-primary {
+            background-color: #007bff;
+            border: none;
+            transition: background-color 0.2s ease-in-out;
+        }
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        💼 Salary Predictor
+                    </div>
+                    <div class="card-body p-4">
+                        <form id="salary-form">
+                            <div class="mb-3">
+                                <label class="form-label">Years of Experience</label>
+                                <input type="number" step="0.1" name="years_experience" class="form-control" placeholder="e.g., 3.5" required>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label">Education Level</label>
+                                <select name="education_level" class="form-select" required>
+                                    <option value="">Select...</option>
+                                    <option>Bachelor</option>
+                                    <option>Master</option>
+                                    <option>PhD</option>
+                                </select>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label">City</label>
+                                <input type="text" name="city" class="form-control" placeholder="e.g., Bengaluru" required>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label">Job Title</label>
+                                <select name="job_title" class="form-select" required>
+                                    <option value="">Select...</option>
+                                    <option>Backend Engineer</option>
+                                    <option>Data Analyst</option>
+                                    <option>Data Scientist</option>
+                                    <option>ML Engineer</option>
+                                    <option>Full Stack Engineer</option>
+                                    <option>Software Developer</option>
+                                    <option>Other</option>
+                                </select>
+                            </div>
+
+
+
+                            <div class="mb-3">
+                                <label class="form-label">Skills (check all that apply)</label><br>
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="checkbox" name="skills_python" value="1">
+                                    <label class="form-check-label">Python</label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="checkbox" name="skills_java" value="1">
+                                    <label class="form-check-label">Java</label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="checkbox" name="skills_aws" value="1">
+                                    <label class="form-check-label">AWS</label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="checkbox" name="skills_sql" value="1">
+                                    <label class="form-check-label">SQL</label>
+                                </div>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label">Company Size</label>
+                                <select name="company_size" class="form-select" required>
+                                    <option value="">Select...</option>
+                                    <option value="Small">Small</option>
+                                    <option value="Medium">Medium</option>
+                            <option value="Large">Large</option>
+                            </select>
+                            </div>
+
+
+                            <button type="submit" class="btn btn-primary w-100">Predict Salary</button>
+                        </form>
+
+                        <div id="prediction-result"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    document.getElementById("salary-form").addEventListener("submit", async function(event) {
+        event.preventDefault();
+
+        const formData = new FormData(this);
+        const payload = {};
+
+        formData.forEach((value, key) => {
+            // Convert checkboxes to 0/1
+            if (["skills_python", "skills_java", "skills_aws", "skills_sql"].includes(key)) {
+                payload[key] = 1;
+            } else {
+                payload[key] = value;
+            }
+        });
+
+        // Ensure unchecked checkboxes are 0
+        ["skills_python", "skills_java", "skills_aws", "skills_sql"].forEach(skill => {
+            if (!(skill in payload)) {
+                payload[skill] = 0;
+            }
+        });
+
+        const res = await fetch("/api/predict", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(payload)
+        });
+
+        const result = await res.json();
+        const outputDiv = document.getElementById("prediction-result");
+
+        if (result.predicted_salary_inr) {
+            outputDiv.innerHTML = `<div class="alert alert-success text-center mt-4">
+                Predicted Salary: ₹ ${result.predicted_salary_inr.toLocaleString()}
+            </div>`;
+        } else if (result.errors) {
+            outputDiv.innerHTML = `<div class="alert alert-danger mt-4">
+                Error: ${result.errors.join(", ")}
+            </div>`;
+        } else {
+            outputDiv.innerHTML = `<div class="alert alert-danger mt-4">
+                Unexpected error occurred.
+            </div>`;
+        }
+    });
+    </script>
+</body>
+</html>

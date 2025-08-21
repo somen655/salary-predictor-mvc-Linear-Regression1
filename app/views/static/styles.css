@@ -1,0 +1,14 @@
+*{box-sizing:border-box}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Helvetica,Arial,sans-serif;background:#0b1020;color:#f2f5ff;margin:0;padding:24px}
+.container{max-width:980px;margin:0 auto}
+header{margin-bottom:16px}
+h1{margin:0} .subtitle{margin:4px 0 0;color:#b7c3ff}
+.card{background:#121735;border:1px solid #202854;border-radius:16px;padding:16px;margin:12px 0;box-shadow:0 8px 30px rgba(0,0,0,.25)}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+label{display:flex;flex-direction:column;font-weight:600;font-size:14px;color:#c6d0ff}
+input,select{margin-top:6px;background:#0d1330;border:1px solid #293158;border-radius:10px;color:#f2f5ff;padding:10px}
+button{display:inline-block;margin-top:8px;background:#5562f7;border:none;border-radius:12px;padding:10px 14px;color:white;font-weight:700;cursor:pointer}
+button:hover{opacity:.95}
+.alert{background:#3a1b1b;border:1px solid #7a2e2e;color:#ffd8d8;border-radius:12px;padding:10px;margin:12px 0}
+.success{border:1px solid #2b4b27}
+.big{font-size:28px;margin:0} .muted{color:#9aacff}
+footer{margin-top:16px;color:#9aacff}

@@ -1,0 +1,601 @@
+years_experience,education_level,job_title,city,company_size,skills_python,skills_java,skills_aws,skills_sql,salary_in_inr
+7.24,Master,Data Scientist,Bengaluru,Small,1,1,1,0,2791694
+3.86,Bachelor,Backend Engineer,Bengaluru,Medium,1,0,1,1,1943930
+2.32,Bachelor,ML Engineer,Bengaluru,Medium,1,0,1,1,1692714
+3.4,Master,Data Analyst,Bengaluru,Medium,1,1,0,1,1880261
+6.23,Bachelor,Backend Engineer,Delhi NCR,Medium,0,1,1,0,1636585
+5.1,Bachelor,Data Analyst,Chennai,Medium,1,1,0,0,1615823
+3.13,High School,ML Engineer,Mumbai,Medium,0,0,0,1,1641996
+6.66,Bachelor,Backend Engineer,Bengaluru,Medium,0,1,1,1,2385335
+6.77,Master,Data Scientist,Chennai,Medium,1,0,0,1,2354580
+5.8,Bachelor,Data Scientist,Delhi NCR,Small,1,1,0,1,2138798
+2.67,Master,ML Engineer,Pune,Large,0,0,1,1,2023548
+3.04,Bachelor,Data Analyst,Chennai,Large,1,1,0,1,1543491
+4.3,Master,Data Analyst,Pune,Medium,1,1,1,1,1921308
+0.0,Bachelor,Backend Engineer,Pune,Medium,1,0,1,1,1158472
+5.38,PhD,Backend Engineer,Mumbai,Medium,1,1,0,1,2571756
+7.55,High School,ML Engineer,Bengaluru,Small,1,1,1,1,2892009
+0.07,Bachelor,Backend Engineer,Mumbai,Medium,0,0,0,1,952862
+8.35,Master,Data Scientist,Pune,Small,1,1,1,1,2647367
+1.17,Master,Full Stack Engineer,Delhi NCR,Medium,1,0,0,0,1241653
+6.53,High School,Backend Engineer,Pune,Medium,0,0,1,1,1591101
+9.56,Bachelor,ML Engineer,Mumbai,Medium,1,0,0,1,2819141
+5.23,Master,Data Scientist,Chennai,Medium,1,0,0,0,2216784
+1.75,Master,Full Stack Engineer,Delhi NCR,Medium,1,1,0,0,1755805
+2.54,Master,Data Analyst,Bengaluru,Medium,0,1,1,1,1477546
+5.7,Master,ML Engineer,Mumbai,Medium,1,0,1,0,2492139
+7.3,Master,Data Scientist,Mumbai,Medium,0,0,0,1,3324649
+3.8,Bachelor,Data Scientist,Bengaluru,Medium,1,0,1,1,2128609
+5.72,Master,Backend Engineer,Pune,Small,1,1,0,1,1946101
+0.0,Master,Data Analyst,Hyderabad,Small,1,1,1,1,1408876
+1.3,Bachelor,Data Analyst,Pune,Medium,0,0,1,0,926649
+12.93,Bachelor,Backend Engineer,Hyderabad,Medium,1,0,0,1,3074956
+7.05,Bachelor,Backend Engineer,Hyderabad,Medium,1,0,0,1,2184569
+3.96,Bachelor,Data Scientist,Pune,Large,0,0,0,1,1857267
+5.74,Master,Data Scientist,Hyderabad,Medium,1,1,1,1,2577008
+6.48,High School,Data Analyst,Chennai,Small,0,0,0,1,1270689
+8.65,Master,ML Engineer,Bengaluru,Small,0,1,1,1,3020225
+9.97,Bachelor,Full Stack Engineer,Delhi NCR,Medium,0,1,0,0,2332206
+10.07,Bachelor,Full Stack Engineer,Hyderabad,Small,0,0,0,0,2165577
+5.84,Bachelor,Data Analyst,Bengaluru,Medium,0,1,1,0,1994107
+5.46,High School,Data Scientist,Hyderabad,Large,1,0,0,0,1813750
+2.62,High School,ML Engineer,Bengaluru,Large,0,0,0,0,1519505
+0.43,Master,Full Stack Engineer,Delhi NCR,Medium,1,0,1,1,1338756
+8.5,High School,Data Scientist,Bengaluru,Medium,1,0,0,1,2446850
+7.32,PhD,Data Analyst,Bengaluru,Large,1,1,0,0,3412246
+6.28,High School,Data Scientist,Delhi NCR,Medium,1,1,0,1,2164275
+8.55,High School,Data Analyst,Delhi NCR,Large,1,1,0,1,2375066
+0.0,Bachelor,Backend Engineer,Delhi NCR,Large,0,1,0,0,907690
+2.36,Master,ML Engineer,Delhi NCR,Medium,1,0,1,0,2120062
+9.63,PhD,Backend Engineer,Pune,Medium,0,1,1,1,3012194
+0.0,High School,Full Stack Engineer,Chennai,Large,0,1,1,0,829509
+3.92,Bachelor,Backend Engineer,Delhi NCR,Medium,1,1,1,1,2003878
+6.66,Bachelor,ML Engineer,Pune,Large,1,1,1,1,2662104
+7.76,Master,Backend Engineer,Bengaluru,Small,1,1,0,1,2806223
+4.56,Bachelor,ML Engineer,Hyderabad,Medium,0,1,0,0,1980902
+0.0,Bachelor,Full Stack Engineer,Hyderabad,Medium,1,0,0,1,1082645
+6.78,Bachelor,Data Analyst,Delhi NCR,Medium,0,0,0,1,1605260
+3.64,Bachelor,Backend Engineer,Bengaluru,Medium,1,0,0,1,1532014
+3.05,Master,Full Stack Engineer,Bengaluru,Small,0,1,0,1,1788242
+4.54,Bachelor,Data Analyst,Hyderabad,Medium,1,0,1,0,1264111
+16.28,High School,Data Analyst,Pune,Small,1,0,0,1,3070113
+3.24,High School,Full Stack Engineer,Pune,Medium,0,0,0,1,979763
+10.83,Bachelor,Backend Engineer,Bengaluru,Medium,1,1,0,0,2917668
+0.61,High School,Backend Engineer,Bengaluru,Small,1,0,0,0,946221
+5.67,Bachelor,Full Stack Engineer,Bengaluru,Medium,0,1,1,1,1969932
+7.25,Master,Data Scientist,Pune,Small,0,0,0,1,2120744
+0.0,High School,Data Scientist,Bengaluru,Medium,1,0,0,1,1174462
+2.49,High School,Full Stack Engineer,Bengaluru,Large,1,1,1,1,1690456
+0.0,Bachelor,Full Stack Engineer,Chennai,Large,1,1,1,1,1300746
+5.8,Bachelor,ML Engineer,Bengaluru,Medium,1,0,0,0,2218800
+6.51,Bachelor,Full Stack Engineer,Hyderabad,Large,1,0,0,1,2609824
+5.56,Bachelor,Full Stack Engineer,Hyderabad,Medium,0,1,0,0,2025628
+0.32,High School,ML Engineer,Pune,Medium,0,1,0,1,1303356
+8.41,High School,Data Scientist,Chennai,Large,1,1,0,0,2354469
+4.56,Master,Backend Engineer,Bengaluru,Medium,0,1,1,1,1992977
+2.79,Bachelor,Full Stack Engineer,Pune,Medium,1,1,0,1,1398884
+14.06,High School,Full Stack Engineer,Delhi NCR,Medium,0,1,1,1,3065029
+12.09,Bachelor,ML Engineer,Delhi NCR,Large,1,0,1,0,3774386
+5.7,Bachelor,Data Analyst,Bengaluru,Medium,0,0,0,1,1873377
+8.38,Bachelor,Data Analyst,Mumbai,Medium,1,0,0,1,2346322
+0.0,Master,Data Analyst,Pune,Medium,1,1,0,0,1215139
+4.56,High School,Full Stack Engineer,Pune,Medium,1,1,0,0,1388582
+3.49,High School,Data Scientist,Pune,Small,0,0,0,1,1241388
+9.86,Bachelor,Backend Engineer,Delhi NCR,Large,1,0,1,1,2527899
+8.77,High School,Backend Engineer,Bengaluru,Medium,1,0,1,1,2608373
+1.22,High School,Backend Engineer,Mumbai,Large,0,0,1,1,1287291
+7.58,High School,Backend Engineer,Bengaluru,Small,1,1,0,0,1945447
+3.67,Bachelor,Data Analyst,Pune,Small,1,0,1,1,1668270
+6.24,Master,Backend Engineer,Delhi NCR,Medium,0,1,0,1,2161032
+6.58,Bachelor,Data Analyst,Bengaluru,Large,0,1,0,1,1812063
+6.19,Bachelor,Data Scientist,Mumbai,Large,1,0,0,0,2328554
+6.4,Bachelor,Data Scientist,Bengaluru,Large,1,0,0,1,2799008
+7.31,High School,Data Scientist,Bengaluru,Medium,1,0,1,1,2307009
+2.18,Master,Full Stack Engineer,Mumbai,Small,1,0,1,1,2305029
+14.46,Bachelor,ML Engineer,Bengaluru,Small,0,0,1,1,3416136
+7.98,Master,Data Scientist,Bengaluru,Medium,1,0,1,1,2933925
+5.24,Bachelor,Data Scientist,Delhi NCR,Medium,0,1,1,0,2187052
+5.25,Bachelor,Full Stack Engineer,Delhi NCR,Small,0,1,0,1,1465573
+1.72,Master,Full Stack Engineer,Delhi NCR,Medium,0,1,0,0,1658269
+5.84,Bachelor,Backend Engineer,Bengaluru,Medium,1,1,0,1,2060999
+10.56,Bachelor,Data Scientist,Delhi NCR,Medium,1,0,1,1,3044841
+5.79,Master,ML Engineer,Delhi NCR,Medium,0,0,0,1,2479130
+3.94,Bachelor,ML Engineer,Bengaluru,Small,1,0,0,1,2188377
+5.38,Bachelor,Data Scientist,Bengaluru,Large,0,0,0,0,2166715
+5.33,Bachelor,Backend Engineer,Delhi NCR,Small,0,1,1,1,1929335
+3.27,Bachelor,Backend Engineer,Chennai,Medium,1,1,1,0,1552840
+10.47,Master,Backend Engineer,Chennai,Small,1,1,1,1,2740256
+3.36,Master,Full Stack Engineer,Delhi NCR,Large,0,1,0,1,1915414
+0.67,Master,Data Scientist,Bengaluru,Small,0,0,1,1,1501509
+14.34,Master,Data Analyst,Mumbai,Medium,1,1,1,1,3732580
+8.37,Master,Data Scientist,Pune,Medium,1,1,1,1,3073223
+4.92,Bachelor,ML Engineer,Bengaluru,Large,0,1,0,1,2374351
+6.17,Bachelor,Data Analyst,Pune,Medium,0,0,1,1,1765854
+5.17,Bachelor,Full Stack Engineer,Bengaluru,Large,0,0,0,0,1897816
+5.97,Bachelor,Data Scientist,Bengaluru,Large,0,1,1,1,2485074
+10.98,Master,Data Analyst,Bengaluru,Large,1,0,0,0,3154082
+1.93,High School,Data Scientist,Mumbai,Small,0,0,0,0,1259283
+11.96,Bachelor,Data Analyst,Delhi NCR,Medium,0,0,0,1,2344845
+1.12,Master,Data Scientist,Delhi NCR,Small,0,1,1,0,1883082
+7.75,High School,Backend Engineer,Delhi NCR,Medium,0,0,0,1,2024047
+3.13,Bachelor,Data Scientist,Bengaluru,Medium,1,1,0,1,2316985
+3.92,Bachelor,Data Analyst,Mumbai,Large,0,0,0,1,1097686
+5.49,Bachelor,ML Engineer,Pune,Small,1,1,0,1,1950850
+1.99,Bachelor,Data Scientist,Chennai,Small,1,0,1,0,1466442
+5.71,Master,Full Stack Engineer,Mumbai,Large,1,1,0,0,2520536
+10.11,Bachelor,Data Scientist,Pune,Medium,1,0,0,1,2761156
+4.38,PhD,Data Analyst,Bengaluru,Medium,0,0,1,0,2267173
+5.63,Bachelor,Data Scientist,Bengaluru,Small,1,0,1,0,2212688
+3.81,Bachelor,Data Analyst,Delhi NCR,Small,0,1,0,0,1551349
+9.28,Master,Data Analyst,Bengaluru,Medium,0,0,1,1,2643342
+3.31,Master,Full Stack Engineer,Bengaluru,Small,0,0,1,1,1867131
+7.4,Bachelor,Data Scientist,Hyderabad,Medium,1,0,1,1,2437702
+0.97,Master,Backend Engineer,Delhi NCR,Medium,1,0,0,1,1660608
+8.99,Bachelor,Backend Engineer,Pune,Medium,1,0,0,0,2151790
+4.37,Master,ML Engineer,Pune,Large,1,0,0,1,2809577
+8.05,High School,Backend Engineer,Hyderabad,Large,1,1,0,1,2339997
+8.71,Bachelor,Data Scientist,Hyderabad,Medium,1,0,0,0,2528483
+7.64,PhD,Backend Engineer,Mumbai,Medium,0,0,1,0,2666779
+6.03,Bachelor,Data Scientist,Delhi NCR,Medium,1,1,1,1,2533223
+7.74,Bachelor,Data Scientist,Bengaluru,Medium,0,0,1,1,2321791
+6.62,Bachelor,ML Engineer,Delhi NCR,Medium,1,1,1,0,2598022
+4.46,Master,Backend Engineer,Pune,Small,1,0,0,1,2039273
+2.03,Bachelor,Data Analyst,Bengaluru,Small,1,1,1,1,1149142
+8.94,Bachelor,Data Scientist,Bengaluru,Medium,1,0,1,1,2848589
+10.34,Master,ML Engineer,Delhi NCR,Small,1,0,1,0,3139955
+5.86,High School,Full Stack Engineer,Hyderabad,Small,1,0,0,1,1634471
+6.13,Bachelor,Data Scientist,Mumbai,Small,1,0,0,1,2490739
+5.87,Master,Backend Engineer,Pune,Small,0,0,1,1,1761986
+5.94,PhD,Data Scientist,Chennai,Large,1,0,1,1,3028184
+1.15,Master,Data Analyst,Chennai,Medium,0,0,1,1,1160135
+1.34,Master,Full Stack Engineer,Bengaluru,Small,1,1,1,1,1878044
+3.55,Bachelor,Data Scientist,Delhi NCR,Small,0,0,0,0,1274636
+7.49,Bachelor,Backend Engineer,Bengaluru,Large,1,0,0,1,2806163
+5.62,High School,ML Engineer,Bengaluru,Medium,0,1,0,1,1884964
+9.8,PhD,Data Scientist,Pune,Medium,1,0,1,0,3150226
+7.39,Bachelor,Data Scientist,Bengaluru,Medium,0,0,1,0,2219021
+1.68,PhD,Full Stack Engineer,Pune,Large,1,1,0,0,2114492
+5.97,Master,ML Engineer,Bengaluru,Medium,1,0,0,0,2520545
+0.0,Bachelor,Data Analyst,Pune,Medium,0,0,1,0,878504
+5.79,Bachelor,Full Stack Engineer,Delhi NCR,Large,0,0,0,1,1934368
+7.38,Bachelor,Full Stack Engineer,Pune,Large,1,1,1,1,2467777
+10.37,Bachelor,Data Scientist,Hyderabad,Small,1,0,0,1,2740827
+5.7,PhD,Data Analyst,Bengaluru,Medium,1,0,1,1,2775025
+10.86,Bachelor,Backend Engineer,Chennai,Medium,1,1,0,1,2845401
+3.35,Master,Backend Engineer,Pune,Large,0,1,0,1,1818318
+0.0,High School,Full Stack Engineer,Hyderabad,Small,1,0,1,0,1036712
+3.48,High School,Data Analyst,Chennai,Small,1,0,0,1,743501
+5.45,High School,Data Scientist,Hyderabad,Large,1,0,0,1,2170472
+4.89,Bachelor,Data Analyst,Hyderabad,Medium,0,1,1,1,1996627
+3.38,Bachelor,ML Engineer,Bengaluru,Large,1,1,1,0,2716887
+10.06,High School,Data Scientist,Bengaluru,Medium,1,1,0,1,3122065
+4.22,High School,Backend Engineer,Delhi NCR,Medium,1,0,0,0,1417866
+1.84,Bachelor,Backend Engineer,Mumbai,Medium,1,0,0,0,1426280
+8.99,Bachelor,Data Analyst,Bengaluru,Small,1,1,1,1,2400900
+3.25,PhD,Data Scientist,Pune,Medium,0,1,0,1,2451523
+1.84,Bachelor,Data Scientist,Delhi NCR,Small,1,0,1,1,1329650
+8.51,Master,ML Engineer,Delhi NCR,Small,0,0,1,0,2521787
+7.82,Bachelor,Data Scientist,Delhi NCR,Large,1,0,0,0,2844251
+3.65,Bachelor,ML Engineer,Mumbai,Medium,1,1,0,1,2278996
+8.14,Bachelor,ML Engineer,Bengaluru,Medium,1,0,1,0,2816643
+4.77,Master,Backend Engineer,Pune,Medium,1,0,0,0,1745951
+5.03,Master,Backend Engineer,Mumbai,Small,0,0,0,1,1900889
+8.03,PhD,Data Analyst,Hyderabad,Medium,0,1,0,1,2589983
+0.16,Master,Backend Engineer,Pune,Medium,1,0,1,1,1646701
+12.72,Master,ML Engineer,Bengaluru,Large,1,0,0,1,4276307
+7.94,Master,Data Scientist,Hyderabad,Small,1,0,0,1,2714798
+10.8,PhD,Full Stack Engineer,Pune,Medium,1,1,0,1,3460788
+4.2,Bachelor,Data Scientist,Bengaluru,Medium,1,0,0,0,2136419
+5.99,Bachelor,Full Stack Engineer,Bengaluru,Medium,0,1,0,0,1623214
+1.41,High School,Backend Engineer,Mumbai,Medium,1,1,1,1,893578
+2.01,Master,Data Scientist,Delhi NCR,Small,1,0,0,1,1835087
+4.71,Bachelor,ML Engineer,Hyderabad,Medium,1,0,0,1,2089023
+0.0,Bachelor,Full Stack Engineer,Bengaluru,Medium,0,1,1,1,1398591
+0.03,Master,Full Stack Engineer,Bengaluru,Medium,1,1,0,0,1396506
+0.0,High School,Backend Engineer,Bengaluru,Small,0,1,0,1,978494
+7.0,High School,ML Engineer,Pune,Small,1,0,0,0,2055149
+7.03,Bachelor,Data Analyst,Mumbai,Medium,1,1,1,1,2563489
+3.24,Bachelor,Data Analyst,Chennai,Medium,1,1,1,0,1405729
+4.48,PhD,ML Engineer,Bengaluru,Small,1,1,0,1,2515408
+6.55,Master,Data Analyst,Chennai,Large,1,1,0,0,2196384
+12.06,Master,Data Analyst,Delhi NCR,Medium,1,1,1,1,3434768
+4.33,Bachelor,Full Stack Engineer,Mumbai,Small,1,1,0,0,1746679
+5.58,PhD,Data Analyst,Delhi NCR,Medium,1,0,1,1,2779513
+9.66,Master,Full Stack Engineer,Bengaluru,Medium,1,1,1,1,3659403
+1.98,Bachelor,ML Engineer,Hyderabad,Medium,1,1,0,1,1946267
+8.44,High School,Backend Engineer,Bengaluru,Medium,1,1,1,1,2561985
+8.99,Bachelor,Full Stack Engineer,Pune,Small,0,0,1,1,2131354
+6.49,Bachelor,ML Engineer,Bengaluru,Medium,0,1,0,1,2328892
+7.3,Master,ML Engineer,Chennai,Medium,1,1,1,1,2860733
+5.04,Bachelor,Full Stack Engineer,Pune,Medium,0,0,0,1,1458268
+6.66,Bachelor,Full Stack Engineer,Bengaluru,Large,0,1,0,0,2278284
+2.23,Master,Data Analyst,Delhi NCR,Small,0,1,0,1,1581992
+5.43,Bachelor,Data Scientist,Bengaluru,Small,0,0,1,0,1924567
+8.83,Master,Backend Engineer,Bengaluru,Small,0,0,1,0,2758693
+5.75,High School,ML Engineer,Pune,Small,1,1,1,0,2200502
+6.16,Bachelor,Data Analyst,Bengaluru,Medium,0,1,1,1,2202824
+11.14,Bachelor,ML Engineer,Bengaluru,Medium,1,0,0,1,3387984
+5.93,Master,Data Scientist,Pune,Small,1,0,0,1,2353156
+4.0,PhD,Data Analyst,Hyderabad,Small,1,0,0,1,1917089
+4.42,Master,Data Scientist,Pune,Small,0,0,0,1,1771772
+4.38,Bachelor,Full Stack Engineer,Hyderabad,Medium,0,0,0,1,1406810
+0.0,Master,ML Engineer,Pune,Medium,0,1,1,1,1404069
+3.81,Bachelor,Backend Engineer,Pune,Medium,1,0,0,1,1598224
+4.76,Master,Backend Engineer,Bengaluru,Medium,0,1,1,1,2022296
+5.15,Bachelor,Full Stack Engineer,Pune,Large,0,0,1,1,1945565
+1.5,High School,Data Analyst,Bengaluru,Medium,1,0,0,1,1031106
+9.93,Master,ML Engineer,Mumbai,Medium,0,0,0,0,2857805
+10.37,Master,Full Stack Engineer,Delhi NCR,Medium,1,1,0,1,2983882
+9.11,Bachelor,Backend Engineer,Hyderabad,Small,0,0,0,1,2236530
+10.09,Bachelor,Backend Engineer,Hyderabad,Medium,0,1,0,1,2663486
+5.41,Master,Backend Engineer,Hyderabad,Small,1,1,0,1,2135307
+5.19,Bachelor,Backend Engineer,Chennai,Medium,1,1,0,0,1717398
+7.94,Bachelor,ML Engineer,Delhi NCR,Small,0,0,0,1,2182718
+1.32,Bachelor,Data Scientist,Chennai,Large,1,0,0,1,1614437
+4.91,Bachelor,Full Stack Engineer,Pune,Medium,1,0,0,1,1705302
+0.0,PhD,Full Stack Engineer,Pune,Medium,1,0,0,1,1646524
+14.76,Bachelor,Full Stack Engineer,Delhi NCR,Medium,1,1,0,0,3072220
+6.44,Bachelor,Full Stack Engineer,Delhi NCR,Small,1,1,0,0,1941822
+0.0,Bachelor,Backend Engineer,Chennai,Medium,1,0,1,0,1261907
+5.31,Master,ML Engineer,Pune,Large,1,0,1,1,2781537
+7.58,Bachelor,Full Stack Engineer,Bengaluru,Medium,0,1,1,1,1892811
+2.1,Master,Data Analyst,Bengaluru,Large,1,1,1,0,1697945
+8.04,Master,Backend Engineer,Chennai,Medium,0,1,1,1,2538188
+5.41,High School,Data Analyst,Hyderabad,Small,1,0,1,0,1346709
+0.0,High School,Data Scientist,Chennai,Medium,1,0,0,1,1094126
+2.81,Master,Full Stack Engineer,Hyderabad,Large,1,0,0,1,1759566
+5.71,Bachelor,Data Scientist,Bengaluru,Large,1,0,1,1,2702874
+6.23,Bachelor,ML Engineer,Chennai,Large,1,1,0,0,2357892
+5.41,Bachelor,Backend Engineer,Pune,Small,0,0,0,1,1263913
+4.35,Master,Backend Engineer,Bengaluru,Medium,1,0,0,1,2083213
+3.83,Master,Full Stack Engineer,Hyderabad,Large,1,1,0,1,2386213
+0.0,Bachelor,ML Engineer,Bengaluru,Small,0,1,1,0,1336048
+5.81,Bachelor,Backend Engineer,Chennai,Medium,1,0,1,1,1984970
+0.45,Bachelor,Data Analyst,Hyderabad,Small,0,0,1,0,465385
+7.68,Bachelor,Full Stack Engineer,Bengaluru,Medium,1,0,0,1,2148285
+2.46,Bachelor,Data Analyst,Mumbai,Small,0,0,0,1,1334755
+5.64,Bachelor,ML Engineer,Bengaluru,Medium,1,0,0,1,2133175
+0.0,Bachelor,Data Scientist,Bengaluru,Medium,0,1,1,1,1429379
+8.0,Bachelor,Full Stack Engineer,Bengaluru,Small,0,1,0,1,2335480
+5.86,Bachelor,Data Analyst,Bengaluru,Small,1,1,1,1,2328514
+6.11,Master,Data Scientist,Hyderabad,Medium,1,0,0,1,2476565
+4.88,High School,Full Stack Engineer,Delhi NCR,Medium,0,1,1,1,1972986
+1.09,Bachelor,Backend Engineer,Pune,Medium,1,0,1,1,1217861
+11.03,Bachelor,Data Analyst,Delhi NCR,Small,1,1,1,1,2535430
+2.58,High School,Full Stack Engineer,Pune,Small,1,1,0,1,1623584
+4.87,Bachelor,Data Analyst,Bengaluru,Small,1,0,0,0,1809371
+4.0,PhD,Backend Engineer,Delhi NCR,Large,0,1,1,1,2695964
+12.59,High School,Data Scientist,Delhi NCR,Small,0,1,1,0,2588005
+6.99,Master,Backend Engineer,Hyderabad,Medium,1,1,1,1,2566413
+10.69,Bachelor,Backend Engineer,Bengaluru,Medium,0,0,1,1,2764847
+8.59,Master,Backend Engineer,Hyderabad,Small,1,1,0,1,2456294
+8.1,PhD,Backend Engineer,Chennai,Medium,1,1,1,0,2885004
+0.0,Master,Data Analyst,Pune,Medium,0,0,0,0,1082426
+5.55,Bachelor,Backend Engineer,Bengaluru,Small,0,0,1,1,1655666
+12.42,Bachelor,ML Engineer,Bengaluru,Medium,0,1,1,1,3155373
+5.05,Bachelor,Backend Engineer,Pune,Small,1,1,0,1,2014342
+0.0,Master,ML Engineer,Bengaluru,Medium,0,1,0,0,1597014
+0.0,Bachelor,Backend Engineer,Bengaluru,Medium,1,0,0,1,1167258
+1.69,Bachelor,Backend Engineer,Mumbai,Large,1,1,1,0,1531213
+0.0,Bachelor,ML Engineer,Chennai,Small,1,1,1,0,1303010
+3.41,Bachelor,Data Scientist,Bengaluru,Medium,0,0,1,1,2106477
+7.78,Bachelor,ML Engineer,Chennai,Small,1,1,0,0,2088771
+7.37,Master,Data Scientist,Delhi NCR,Medium,0,1,0,0,2671016
+3.55,Bachelor,Full Stack Engineer,Delhi NCR,Medium,0,1,1,1,1523524
+1.68,Master,ML Engineer,Hyderabad,Small,0,0,1,0,1568793
+0.19,Master,ML Engineer,Pune,Large,1,1,1,0,1906811
+7.22,Bachelor,Data Analyst,Bengaluru,Large,1,0,0,0,2125527
+9.21,Bachelor,Data Scientist,Pune,Large,0,0,1,1,2915091
+0.0,Bachelor,Data Analyst,Pune,Medium,0,0,0,0,729692
+3.62,Master,Data Analyst,Bengaluru,Medium,0,1,1,1,1609984
+4.24,Master,Backend Engineer,Bengaluru,Small,1,1,0,1,1840696
+4.69,Master,ML Engineer,Hyderabad,Medium,1,0,0,1,2130784
+2.27,Master,Full Stack Engineer,Pune,Small,1,1,0,1,1537964
+11.36,Bachelor,Data Analyst,Bengaluru,Large,1,1,1,1,3587497
+1.57,Bachelor,Full Stack Engineer,Delhi NCR,Small,1,1,1,0,1299742
+6.87,Master,Data Scientist,Hyderabad,Small,1,0,0,0,2132703
+9.44,Bachelor,Data Scientist,Delhi NCR,Small,1,0,0,0,2442027
+5.04,Bachelor,Data Analyst,Mumbai,Small,1,1,1,1,2125624
+3.74,Bachelor,Full Stack Engineer,Mumbai,Small,1,0,0,1,1729806
+5.26,Master,Data Scientist,Mumbai,Small,0,1,1,0,2257678
+5.77,Bachelor,Data Scientist,Mumbai,Medium,1,0,0,0,2359424
+9.26,Bachelor,Data Analyst,Delhi NCR,Medium,0,0,1,1,2661350
+3.38,Bachelor,Data Scientist,Delhi NCR,Small,0,0,0,1,1823729
+5.59,High School,Data Scientist,Delhi NCR,Small,0,0,1,1,1481738
+4.52,High School,Backend Engineer,Mumbai,Large,0,1,0,1,1648463
+1.7,Bachelor,Data Scientist,Hyderabad,Medium,0,1,0,0,1262712
+5.06,Bachelor,Data Scientist,Delhi NCR,Large,1,0,1,1,2484244
+6.79,Master,ML Engineer,Delhi NCR,Medium,1,1,0,1,2709457
+7.44,Bachelor,Backend Engineer,Bengaluru,Small,0,1,0,1,1927617
+3.02,High School,Backend Engineer,Pune,Medium,1,0,0,1,1052067
+9.07,Bachelor,Data Analyst,Pune,Medium,0,0,0,1,2380629
+6.65,Bachelor,Backend Engineer,Pune,Small,1,0,1,1,2150097
+8.5,Bachelor,Data Scientist,Hyderabad,Small,0,0,0,1,2184462
+10.62,Bachelor,Backend Engineer,Mumbai,Medium,0,1,1,1,3053453
+9.34,Bachelor,Backend Engineer,Delhi NCR,Large,1,0,0,0,2468802
+5.35,High School,Full Stack Engineer,Hyderabad,Medium,0,0,1,1,1615332
+9.7,Bachelor,Full Stack Engineer,Pune,Medium,1,0,0,1,2386081
+3.38,Master,Data Scientist,Mumbai,Small,1,1,0,1,1862329
+7.6,Bachelor,Backend Engineer,Chennai,Medium,0,1,1,1,2250934
+6.93,Bachelor,ML Engineer,Bengaluru,Small,0,1,1,0,2228385
+11.45,Master,Data Scientist,Pune,Small,1,1,0,1,3298909
+1.69,Bachelor,Data Analyst,Delhi NCR,Medium,1,0,1,1,1208589
+7.29,Master,Data Analyst,Mumbai,Small,0,1,0,1,2431764
+7.59,Bachelor,Data Scientist,Bengaluru,Medium,0,1,1,1,2464950
+6.41,Bachelor,Data Analyst,Bengaluru,Small,1,1,0,1,1924038
+5.83,Bachelor,Full Stack Engineer,Delhi NCR,Medium,0,1,1,0,1915250
+7.14,High School,Backend Engineer,Delhi NCR,Medium,0,1,1,0,1631603
+1.94,High School,Data Analyst,Chennai,Medium,1,1,0,1,1062547
+7.68,Master,Backend Engineer,Chennai,Medium,1,1,1,1,2797829
+6.01,Master,Data Analyst,Mumbai,Medium,1,1,1,0,2436251
+6.79,Bachelor,Full Stack Engineer,Delhi NCR,Medium,0,1,1,1,1831825
+12.34,Master,Data Analyst,Delhi NCR,Small,1,1,1,1,3049038
+2.9,Bachelor,Data Scientist,Bengaluru,Medium,1,1,1,1,2022186
+10.94,Master,ML Engineer,Delhi NCR,Medium,1,0,0,1,3389647
+6.85,Bachelor,Data Scientist,Hyderabad,Small,1,0,0,1,2139279
+1.54,Master,Full Stack Engineer,Bengaluru,Medium,1,1,1,1,2062757
+6.39,PhD,Data Scientist,Chennai,Small,1,0,1,0,2789062
+4.78,High School,Backend Engineer,Bengaluru,Medium,1,0,0,1,1495722
+5.28,Bachelor,ML Engineer,Bengaluru,Small,1,0,0,1,2221576
+3.9,Bachelor,ML Engineer,Bengaluru,Medium,0,0,0,1,1875531
+7.51,Master,Backend Engineer,Pune,Medium,1,1,0,1,2188574
+5.22,Bachelor,ML Engineer,Bengaluru,Medium,1,1,1,1,2373262
+7.19,Bachelor,Data Scientist,Chennai,Large,0,0,0,1,2360157
+5.32,Bachelor,ML Engineer,Hyderabad,Large,1,0,0,0,2546368
+4.65,PhD,Backend Engineer,Pune,Medium,1,1,0,1,2379686
+10.67,High School,Data Scientist,Bengaluru,Small,1,0,1,1,2609318
+1.63,Bachelor,ML Engineer,Hyderabad,Small,1,1,1,1,1784281
+1.64,Bachelor,Full Stack Engineer,Bengaluru,Small,1,1,1,1,1722805
+3.27,Bachelor,Data Analyst,Bengaluru,Medium,0,0,0,1,1387256
+6.52,Bachelor,Data Scientist,Chennai,Small,1,0,1,0,2083185
+3.66,Master,Backend Engineer,Bengaluru,Small,1,1,1,0,2261938
+7.28,High School,Backend Engineer,Pune,Medium,0,0,0,1,2322945
+3.51,Bachelor,Data Analyst,Bengaluru,Medium,0,0,1,1,1544533
+2.94,Master,Data Scientist,Delhi NCR,Medium,1,0,1,1,2281510
+2.98,Bachelor,Backend Engineer,Delhi NCR,Medium,0,0,1,1,1571220
+8.54,Master,Full Stack Engineer,Mumbai,Small,1,1,0,0,2630967
+8.57,PhD,Data Analyst,Bengaluru,Small,1,0,0,0,2994371
+7.74,High School,Backend Engineer,Bengaluru,Medium,1,1,0,1,2181431
+4.85,Master,ML Engineer,Chennai,Medium,0,1,1,1,2048124
+2.18,Bachelor,Full Stack Engineer,Delhi NCR,Large,1,1,0,1,2038318
+3.65,Bachelor,ML Engineer,Bengaluru,Medium,1,0,0,1,1817145
+0.71,Bachelor,Backend Engineer,Pune,Large,1,1,1,0,1792242
+6.42,Master,Full Stack Engineer,Hyderabad,Medium,1,1,1,1,2742247
+1.54,High School,Full Stack Engineer,Bengaluru,Small,1,1,0,1,1652634
+2.17,Bachelor,Data Scientist,Bengaluru,Large,0,1,0,0,1737798
+0.0,High School,Backend Engineer,Mumbai,Medium,1,1,0,1,887419
+9.29,Master,Data Scientist,Hyderabad,Medium,0,0,0,1,2631876
+0.18,Master,Backend Engineer,Hyderabad,Large,0,0,0,1,738778
+6.17,Bachelor,Backend Engineer,Hyderabad,Medium,1,1,1,1,2261545
+4.3,Bachelor,Backend Engineer,Pune,Large,0,0,0,1,1637305
+9.56,Master,Data Scientist,Hyderabad,Small,1,0,0,1,2734515
+3.56,Bachelor,Backend Engineer,Bengaluru,Large,1,0,0,0,1767933
+0.2,Bachelor,ML Engineer,Delhi NCR,Small,0,1,1,1,1455806
+1.06,Master,Data Scientist,Mumbai,Medium,0,1,0,0,2005698
+9.7,Bachelor,Data Analyst,Delhi NCR,Small,0,0,0,1,2105181
+0.0,High School,Data Analyst,Bengaluru,Large,0,0,1,1,945680
+9.15,Master,Data Analyst,Chennai,Small,0,0,1,1,2360148
+2.95,Master,Backend Engineer,Pune,Small,1,1,0,1,1793451
+4.45,Master,Full Stack Engineer,Bengaluru,Medium,1,0,1,1,2056432
+3.81,High School,ML Engineer,Delhi NCR,Small,1,1,1,1,1790964
+0.0,High School,Data Scientist,Bengaluru,Medium,1,0,1,1,1541021
+5.64,Bachelor,ML Engineer,Bengaluru,Large,1,1,0,1,2771481
+7.01,Bachelor,Backend Engineer,Chennai,Large,1,0,0,0,2185267
+0.0,Bachelor,Data Analyst,Pune,Small,1,1,1,1,1065927
+3.89,Bachelor,Data Analyst,Mumbai,Small,1,0,1,1,1567765
+0.89,Master,Full Stack Engineer,Bengaluru,Small,1,0,1,0,1681158
+8.92,Bachelor,Backend Engineer,Mumbai,Medium,0,0,0,0,2332223
+8.63,Master,Data Analyst,Hyderabad,Medium,1,0,0,1,2740767
+4.2,Master,Data Scientist,Chennai,Medium,0,0,1,1,2117970
+2.17,Master,Data Analyst,Delhi NCR,Small,1,1,1,0,1521667
+9.64,Bachelor,Data Scientist,Mumbai,Medium,1,0,1,1,2857247
+1.82,Bachelor,ML Engineer,Bengaluru,Small,1,1,1,1,2023119
+2.54,Bachelor,Full Stack Engineer,Bengaluru,Medium,1,0,0,1,1777092
+1.75,Bachelor,Backend Engineer,Bengaluru,Medium,0,0,1,1,1661909
+5.54,High School,Backend Engineer,Pune,Medium,0,0,0,0,1820235
+6.3,Master,Full Stack Engineer,Chennai,Medium,0,1,0,1,1834735
+2.42,Master,Data Scientist,Pune,Small,0,0,1,1,1632614
+2.43,High School,ML Engineer,Delhi NCR,Medium,1,0,1,0,1511704
+2.29,Bachelor,Backend Engineer,Pune,Large,0,1,0,1,1668942
+0.0,Bachelor,Data Analyst,Bengaluru,Small,1,0,0,0,1013893
+10.46,Master,Full Stack Engineer,Pune,Large,1,0,0,1,2666265
+1.46,High School,Data Scientist,Bengaluru,Medium,0,1,1,0,1580007
+11.66,Bachelor,Backend Engineer,Bengaluru,Small,1,1,1,1,3022505
+5.31,Bachelor,Data Scientist,Bengaluru,Small,1,1,0,1,2054711
+9.36,High School,Data Scientist,Mumbai,Small,1,1,1,0,2783878
+11.06,Bachelor,Data Scientist,Hyderabad,Small,0,1,0,0,2700905
+1.91,Master,Data Analyst,Chennai,Medium,1,1,0,1,1744200
+7.0,Bachelor,Backend Engineer,Bengaluru,Medium,1,1,1,1,2477579
+1.46,High School,Full Stack Engineer,Hyderabad,Medium,0,0,1,1,766757
+6.9,Bachelor,Data Scientist,Pune,Medium,1,0,0,1,2291909
+7.27,Bachelor,Backend Engineer,Pune,Medium,0,1,0,0,1806701
+2.64,Bachelor,Full Stack Engineer,Hyderabad,Small,1,0,0,1,1411097
+7.27,Master,Backend Engineer,Hyderabad,Medium,0,1,0,0,2447339
+7.03,Bachelor,Full Stack Engineer,Mumbai,Medium,0,1,0,0,1678925
+3.14,Bachelor,Data Scientist,Hyderabad,Small,1,1,0,1,1717373
+3.37,Master,ML Engineer,Pune,Medium,0,1,1,1,2131233
+7.13,Bachelor,Full Stack Engineer,Pune,Medium,1,1,1,1,2574068
+6.01,Master,Data Scientist,Bengaluru,Medium,1,0,0,1,2478454
+3.83,High School,Data Analyst,Pune,Medium,1,1,0,1,1188685
+11.44,Master,Data Scientist,Delhi NCR,Small,1,0,0,1,3406628
+4.06,Master,ML Engineer,Bengaluru,Small,1,0,0,1,2246236
+2.99,PhD,Data Scientist,Delhi NCR,Small,1,1,0,1,2187583
+9.54,Bachelor,Data Scientist,Hyderabad,Small,1,0,0,0,2678561
+10.86,Bachelor,Data Analyst,Bengaluru,Small,1,1,1,1,2912193
+8.35,High School,Data Analyst,Bengaluru,Medium,0,0,1,0,1915436
+3.74,Bachelor,Full Stack Engineer,Bengaluru,Medium,1,1,0,1,1632406
+7.02,Master,Backend Engineer,Mumbai,Small,1,1,0,1,2594956
+2.12,High School,Backend Engineer,Delhi NCR,Large,0,1,0,1,1510123
+4.81,Bachelor,Data Analyst,Pune,Medium,1,0,1,1,2085150
+7.88,High School,Data Analyst,Chennai,Medium,1,1,1,0,1853215
+7.9,Bachelor,Backend Engineer,Bengaluru,Medium,1,1,0,1,2717711
+0.0,Master,Backend Engineer,Pune,Large,1,0,0,1,1407924
+0.0,Bachelor,Full Stack Engineer,Bengaluru,Small,0,1,1,1,1380585
+4.46,Master,Full Stack Engineer,Pune,Small,1,0,0,1,2077843
+12.94,Bachelor,Data Scientist,Bengaluru,Small,1,1,0,1,3557821
+9.84,High School,Data Scientist,Mumbai,Medium,0,0,0,0,2367907
+13.56,Master,Data Scientist,Delhi NCR,Large,0,0,1,1,3605550
+6.68,Bachelor,Backend Engineer,Bengaluru,Large,1,1,0,0,2358052
+2.77,Bachelor,Backend Engineer,Delhi NCR,Medium,0,0,1,0,1512963
+2.05,Master,ML Engineer,Pune,Small,1,0,0,1,1745687
+2.58,Bachelor,Data Analyst,Bengaluru,Medium,0,0,1,0,1389789
+4.31,PhD,Data Analyst,Bengaluru,Small,1,0,0,1,2270377
+6.41,Bachelor,Full Stack Engineer,Delhi NCR,Medium,1,1,1,1,2353510
+5.53,Bachelor,Data Scientist,Bengaluru,Medium,0,1,0,0,1716399
+9.67,Master,ML Engineer,Delhi NCR,Medium,0,0,1,0,2711668
+1.5,Master,Backend Engineer,Bengaluru,Medium,1,1,0,1,1893347
+6.13,Bachelor,ML Engineer,Pune,Medium,1,1,1,0,2585571
+9.76,Bachelor,Full Stack Engineer,Mumbai,Small,1,1,0,0,2804255
+9.23,Bachelor,Backend Engineer,Delhi NCR,Small,0,0,0,1,2348732
+6.98,Bachelor,Data Analyst,Bengaluru,Medium,1,1,0,1,2214862
+4.86,Master,Data Scientist,Hyderabad,Medium,0,0,1,1,2187087
+1.3,Bachelor,ML Engineer,Pune,Medium,1,1,0,0,1184645
+3.9,Bachelor,Data Analyst,Bengaluru,Small,0,1,1,1,1568024
+6.63,Bachelor,Backend Engineer,Pune,Medium,1,1,1,1,2259391
+9.88,Bachelor,Data Analyst,Mumbai,Medium,0,1,0,0,2331262
+6.47,Bachelor,Full Stack Engineer,Chennai,Small,1,1,1,1,2101623
+2.09,High School,Data Analyst,Bengaluru,Large,1,1,0,1,1610705
+2.76,High School,Backend Engineer,Pune,Small,1,0,1,0,1089977
+0.0,High School,Full Stack Engineer,Bengaluru,Small,1,0,0,0,800709
+6.61,High School,Backend Engineer,Delhi NCR,Small,0,1,0,0,1450125
+7.55,Bachelor,Full Stack Engineer,Bengaluru,Medium,0,1,1,0,2245115
+4.92,Bachelor,Data Analyst,Hyderabad,Medium,1,0,1,1,1815616
+5.62,Master,ML Engineer,Pune,Small,1,0,0,1,1968852
+4.16,Bachelor,Data Analyst,Delhi NCR,Small,0,0,1,1,1419046
+3.15,Bachelor,Backend Engineer,Bengaluru,Large,0,1,1,0,1970454
+4.79,Bachelor,Data Scientist,Hyderabad,Small,1,1,0,1,1923801
+3.35,Bachelor,Data Scientist,Pune,Medium,1,1,0,1,1770142
+3.66,High School,Full Stack Engineer,Bengaluru,Medium,1,1,0,1,1728523
+0.61,Bachelor,Backend Engineer,Bengaluru,Small,1,1,0,1,1368966
+4.2,Master,Backend Engineer,Delhi NCR,Small,0,1,1,1,1796942
+0.63,Bachelor,Full Stack Engineer,Bengaluru,Medium,0,0,1,0,1147786
+8.83,High School,Data Analyst,Hyderabad,Small,0,1,0,1,1883691
+5.28,Bachelor,Data Analyst,Delhi NCR,Medium,0,1,0,1,1758756
+4.12,Master,Full Stack Engineer,Pune,Medium,0,1,0,1,2026802
+11.34,Bachelor,ML Engineer,Hyderabad,Medium,1,1,0,1,2952794
+9.03,Bachelor,Backend Engineer,Delhi NCR,Medium,0,0,0,0,1972959
+11.99,Bachelor,Data Analyst,Bengaluru,Small,1,0,1,1,2878429
+8.86,Bachelor,Backend Engineer,Mumbai,Medium,0,1,1,1,2681725
+9.87,High School,Full Stack Engineer,Bengaluru,Medium,0,1,0,1,2165411
+4.06,Master,Backend Engineer,Chennai,Large,1,0,0,0,2084011
+13.14,Bachelor,Backend Engineer,Bengaluru,Medium,1,1,1,1,3509969
+5.67,Bachelor,Backend Engineer,Mumbai,Small,1,1,1,1,2316130
+4.11,Bachelor,Full Stack Engineer,Mumbai,Large,0,1,0,1,1723613
+10.27,Bachelor,Data Scientist,Bengaluru,Medium,1,1,0,1,3388328
+12.23,Bachelor,Data Analyst,Pune,Medium,0,1,0,1,2487026
+0.0,Master,Backend Engineer,Pune,Medium,1,0,1,1,1365527
+0.72,Bachelor,Data Analyst,Bengaluru,Small,0,0,0,1,967263
+2.05,High School,Backend Engineer,Chennai,Small,1,0,1,1,1195849
+3.69,Bachelor,Data Scientist,Pune,Medium,1,0,0,1,1797755
+11.09,Bachelor,Data Scientist,Hyderabad,Medium,0,0,0,0,2761368
+5.42,Master,Data Scientist,Pune,Small,1,1,1,1,2333912
+5.13,Bachelor,Backend Engineer,Mumbai,Large,1,0,1,0,2268271
+8.87,Bachelor,Full Stack Engineer,Pune,Small,1,0,1,0,2242147
+1.34,Bachelor,ML Engineer,Hyderabad,Small,1,0,0,1,1630413
+4.14,Bachelor,ML Engineer,Hyderabad,Medium,1,0,0,0,1813521
+8.51,Bachelor,ML Engineer,Bengaluru,Large,0,1,1,1,3126843
+5.1,Bachelor,ML Engineer,Chennai,Large,1,1,1,1,2540394
+0.25,Bachelor,Full Stack Engineer,Pune,Medium,0,0,1,1,938793
+4.8,Master,Backend Engineer,Bengaluru,Medium,1,1,0,0,2210004
+4.65,Bachelor,Data Analyst,Hyderabad,Small,1,1,0,1,1348958
+2.42,Master,Data Analyst,Pune,Small,0,1,0,1,1673071
+5.3,Bachelor,Full Stack Engineer,Mumbai,Medium,0,1,0,1,2011601
+6.86,Master,Backend Engineer,Delhi NCR,Medium,1,1,0,0,2357489
+7.34,Bachelor,Backend Engineer,Delhi NCR,Medium,1,0,1,1,2195775
+4.46,Bachelor,ML Engineer,Hyderabad,Small,1,0,1,1,1981441
+5.47,Bachelor,Full Stack Engineer,Hyderabad,Medium,0,0,0,0,1663364
+2.54,High School,Backend Engineer,Chennai,Small,1,1,0,1,1132414
+6.89,Bachelor,Data Scientist,Hyderabad,Medium,0,1,0,1,2272971
+0.0,Bachelor,Full Stack Engineer,Bengaluru,Medium,1,0,0,0,1178527
+5.89,High School,Backend Engineer,Hyderabad,Medium,1,0,0,1,1580421
+8.29,Master,Backend Engineer,Chennai,Large,1,0,1,1,2478416
+12.0,Master,Full Stack Engineer,Bengaluru,Medium,1,0,0,0,3116209
+5.48,Bachelor,Backend Engineer,Pune,Medium,1,1,1,1,2260077
+3.36,Bachelor,Data Analyst,Hyderabad,Medium,1,1,1,1,1762450
+3.44,Bachelor,Data Scientist,Bengaluru,Small,1,1,0,0,1978592
+9.26,High School,Data Scientist,Delhi NCR,Medium,0,0,0,1,2320612
+8.99,Bachelor,Full Stack Engineer,Delhi NCR,Small,1,1,1,1,2516406
+6.52,Master,Data Analyst,Mumbai,Small,1,0,0,1,1865739
+0.0,Bachelor,Data Analyst,Delhi NCR,Medium,1,1,1,1,1200984
+9.56,Bachelor,Backend Engineer,Mumbai,Small,1,1,0,0,2706918
+0.31,High School,Full Stack Engineer,Bengaluru,Small,1,1,0,1,1034597
+2.05,Bachelor,Data Analyst,Mumbai,Small,1,0,1,0,1191888
+3.29,High School,Data Analyst,Bengaluru,Medium,0,1,1,1,1493484
+1.55,High School,ML Engineer,Bengaluru,Medium,1,1,1,1,1933211
+3.42,Bachelor,ML Engineer,Mumbai,Large,1,1,1,0,2590754
+7.16,Bachelor,Data Analyst,Hyderabad,Medium,1,1,1,1,2120881
+3.21,Bachelor,Data Scientist,Bengaluru,Small,1,0,0,1,1790889
+6.91,High School,ML Engineer,Chennai,Medium,1,1,1,1,2441939
+3.41,Bachelor,Backend Engineer,Pune,Small,1,0,0,1,1766555
+8.98,Bachelor,Backend Engineer,Bengaluru,Large,1,0,0,1,2868378
+6.05,Bachelor,Backend Engineer,Bengaluru,Small,1,0,0,1,1970023
+6.01,Master,ML Engineer,Bengaluru,Medium,1,1,0,0,2788552
+2.35,Master,Backend Engineer,Mumbai,Medium,0,1,1,1,1685295
+7.21,Bachelor,Backend Engineer,Mumbai,Large,0,0,0,1,2477439
+7.39,Bachelor,Backend Engineer,Hyderabad,Medium,0,1,0,1,2188530
+4.27,Bachelor,Data Scientist,Mumbai,Medium,1,0,0,1,1683208
+5.86,Master,Full Stack Engineer,Hyderabad,Medium,1,1,1,1,2372242
+9.61,Master,Backend Engineer,Pune,Small,1,1,1,0,2647107
+0.0,Bachelor,Backend Engineer,Chennai,Medium,1,0,0,1,888183
+9.52,High School,Backend Engineer,Pune,Large,1,0,1,1,2603323
+9.66,Master,Data Scientist,Bengaluru,Medium,1,0,1,0,3529127
+5.88,Bachelor,Backend Engineer,Chennai,Medium,1,1,1,0,2065179
+3.89,Bachelor,Data Analyst,Delhi NCR,Small,1,0,1,1,1701386
+5.38,Master,Backend Engineer,Bengaluru,Medium,1,1,0,1,2065842
+3.44,Master,Data Scientist,Chennai,Medium,1,0,1,1,2048217
+2.14,Bachelor,Data Analyst,Delhi NCR,Small,0,0,1,0,861040
+7.8,Master,Data Analyst,Bengaluru,Medium,1,0,0,1,2464962
+4.04,High School,Data Scientist,Bengaluru,Small,1,1,1,1,2017527
+7.24,Master,Data Scientist,Pune,Small,1,0,1,1,2893056
+7.25,Master,Full Stack Engineer,Delhi NCR,Medium,1,1,0,0,2335666
+4.73,Bachelor,Data Analyst,Hyderabad,Medium,0,1,1,1,1817742
+6.8,Bachelor,Backend Engineer,Bengaluru,Large,1,1,0,0,2535543
+5.22,Bachelor,Backend Engineer,Chennai,Small,0,0,1,1,1560589
+8.27,PhD,Backend Engineer,Bengaluru,Medium,0,1,0,0,2790147
+3.41,Bachelor,ML Engineer,Hyderabad,Small,1,1,1,1,1946756
+3.52,High School,Backend Engineer,Bengaluru,Medium,0,0,1,1,1524444
+9.08,Bachelor,Data Analyst,Pune,Small,1,1,1,1,2498301
+4.53,Master,Data Scientist,Delhi NCR,Medium,1,1,0,1,2594344
+4.29,Bachelor,ML Engineer,Bengaluru,Medium,1,1,1,0,2374768
+10.55,High School,Backend Engineer,Bengaluru,Medium,1,1,0,1,2557522
+3.91,Master,Backend Engineer,Chennai,Medium,1,0,1,0,2133596
+0.09,Master,Data Scientist,Hyderabad,Medium,1,1,0,0,1520600
+0.0,Bachelor,Full Stack Engineer,Chennai,Medium,0,1,0,1,546827
+0.0,Master,Data Analyst,Delhi NCR,Medium,1,1,0,1,1305463
+6.36,Bachelor,ML Engineer,Bengaluru,Small,1,1,1,1,2426526
+2.5,PhD,Data Scientist,Bengaluru,Medium,1,1,0,1,2569259
+8.38,Master,Data Scientist,Pune,Large,1,0,0,0,2747975
+10.65,Master,Backend Engineer,Bengaluru,Small,1,0,0,0,2674239
+5.21,Bachelor,Backend Engineer,Mumbai,Large,1,0,1,1,2351019
+5.94,Bachelor,Data Analyst,Chennai,Large,1,1,0,0,1877192
+8.84,Master,Backend Engineer,Delhi NCR,Large,0,0,1,0,2727418
+5.78,High School,Backend Engineer,Pune,Medium,1,0,1,1,1777999
+8.03,Master,ML Engineer,Bengaluru,Medium,1,0,0,1,2972296
+11.07,Bachelor,Backend Engineer,Pune,Small,0,1,0,0,2347785
+2.73,Bachelor,Data Analyst,Chennai,Large,0,1,0,0,1273405
+5.99,Bachelor,Backend Engineer,Hyderabad,Large,0,0,0,1,1693630
+3.63,Bachelor,Data Analyst,Chennai,Small,1,0,1,0,1439625
+2.02,Bachelor,Backend Engineer,Mumbai,Medium,1,1,1,0,1683055
+7.76,Bachelor,Data Analyst,Chennai,Medium,1,0,1,0,2049500
+0.0,Bachelor,Data Scientist,Bengaluru,Medium,1,0,0,1,1213784
+5.1,Bachelor,Data Scientist,Bengaluru,Small,1,1,1,1,2368265
+7.27,Bachelor,Data Analyst,Bengaluru,Medium,0,0,1,1,2055478
+10.5,Bachelor,Data Scientist,Bengaluru,Medium,1,1,0,0,2973179
+10.12,Bachelor,Full Stack Engineer,Bengaluru,Small,1,0,0,0,2358450
+5.28,Master,Data Scientist,Bengaluru,Medium,0,1,0,1,2450578
+7.56,Bachelor,Data Analyst,Bengaluru,Small,1,1,0,1,2285998
+7.9,Bachelor,ML Engineer,Hyderabad,Medium,1,1,1,1,2722636
+0.0,Bachelor,Full Stack Engineer,Pune,Medium,1,0,0,1,1497198
+8.55,High School,ML Engineer,Bengaluru,Medium,1,0,0,1,2704691
+6.17,High School,Backend Engineer,Bengaluru,Medium,1,1,0,1,1966785
+1.14,Bachelor,Data Analyst,Pune,Small,1,1,0,0,1111306
+3.12,High School,Backend Engineer,Mumbai,Medium,0,1,1,1,1648250
+7.71,Bachelor,Backend Engineer,Mumbai,Medium,0,1,0,0,2098355
+2.62,Bachelor,Backend Engineer,Hyderabad,Small,1,0,1,0,1205232
+4.13,Bachelor,Backend Engineer,Chennai,Medium,1,0,0,1,1425357
+3.69,Bachelor,Full Stack Engineer,Pune,Small,1,1,1,1,1975446
+11.32,Master,Data Scientist,Bengaluru,Medium,0,0,0,1,3260002
+9.34,Bachelor,Data Scientist,Chennai,Small,1,1,0,0,2144149
+5.51,PhD,Backend Engineer,Bengaluru,Medium,1,1,0,1,2968018
+11.62,Bachelor,Data Analyst,Chennai,Small,0,1,1,0,2558549
+6.64,Master,Data Analyst,Delhi NCR,Medium,1,0,1,1,2097177

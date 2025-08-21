@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Salary Predictor (MVC)</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Salary Predictor</h1>
+        <p class="subtitle">Linear Regression · Flask MVC</p>
+      </header>
+      <main>
+        {% block content %}{% endblock %}
+      </main>
+      <footer>
+        <p>Made with ❤ for interviews · v1.0.0</p>
+      </footer>
+    </div>
+  </body>
+</html>
